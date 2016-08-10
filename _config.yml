@@ -1,3 +1,4 @@
+layout_spectrum: 0.7903331320267171
 typography_spectrum: 0.7830372618045658
 color:
   brandStrength: 0.34350189100950956
@@ -10,7 +11,4 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.7903331320267171
 name: Young and Programming
-title: Young and Programming
-description: 'Experiences from the life of a young programmer '
